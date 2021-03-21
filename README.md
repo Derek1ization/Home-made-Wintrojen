@@ -1,2 +1,2 @@
-# Home-made-Wintrojen
+# Home-made-Wintrojen :)
 Warning DO NOT TOUCH ANYTHING IN THIS FOLDER!, so basicly in this folder is a home made windows trojen, my intrest for malware and how this type of sofware interacts is just so intresting. So i wanted to see myself how well of a Windows trojen i can make up myself, After all i studyed all types of malware, worms, trojens. The goal here is this windows trojen needs too be harmfull enough to crash the computer at least! So if you do download this whole github res, remove this folder,
